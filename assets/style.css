@@ -1,0 +1,19 @@
+.box{
+    background-color: rgb(244, 236, 220);
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.small-box{
+    background-color: rgb(159, 123, 159);
+    border-radius: 2px;
+    padding: 5px;
+    width: 50px;
+}
+button{
+   background-color: blueviolet;
+   border-radius: 10px;
+   color: white;
+}
